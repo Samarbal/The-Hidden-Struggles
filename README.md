@@ -96,4 +96,5 @@ https://unrwaedu-my.sharepoint.com/:u:/g/personal/m_baelousha_unrwa-edu_org/EcgS
 https://www.ablebits.com/office-addins-blog/linear-regression-analysis-excel/
 https://www.geeksforgeeks.org/power-bi-tutorial/ 
 
-
+## Video 
+[Video link](https://drive.google.com/file/d/18CfyFe53hiUltdKN-rVrNFXV2XtuyhPq/view?usp=drive_link)
